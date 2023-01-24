@@ -70,9 +70,9 @@ const Header = () => {
                                         </ul>
                                     </li>
                                     <li><Link to="/about">About</Link></li>
-                                    <li><a href="./gallery.html">Gallery</a></li>
-                                    <li><a href="./blog.html">Blog</a></li>
-                                    <li><a href="./contact.html">Contact</a></li>
+                                    <li><Link to="/gallery">Gallery</Link></li>
+                                    <li><Link to="/blog">Blog</Link></li>
+                                    <li><Link to="/contact">Contact</Link></li>
                                 </ul>
 
                               
